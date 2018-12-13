@@ -1,5 +1,5 @@
 //
-//  DataViewController.h
+//  FirstViewController.h
 //  SampleCaptureCocoaPod
 //
 //  Created by IDM014 on 13/12/18.
@@ -10,7 +10,7 @@
 
 
 
-@interface DataViewController : UIViewController
+@interface FirstViewController : UIViewController
 
 - (void)printMessage;
 

@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <SampleCaptureCocoaPod/DataViewController.h>
+#import <SampleCaptureCocoaPod/FirstViewController.h>
 //! Project version number for SampleCaptureCocoaPod.
 FOUNDATION_EXPORT double SampleCaptureCocoaPodVersionNumber;
 
