@@ -11,7 +11,7 @@ s.platform     = :ios
 s.source       = { :git => "https://github.com/KrishnaMohan454/SampleCocoaPod.git", :tag => "1.0.0" }
 
 s.ios.deployment_target  = '10.0'
-s.ios.vendored_framework = 'SampleCaptureCocoaPod.framework/'
+s.ios.vendored_framework = 'SDK/SampleCaptureCocoaPod.framework/'
 
 
 end
