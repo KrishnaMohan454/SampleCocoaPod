@@ -1,6 +1,0 @@
-framework module DocumentCaptureCocoaPods {
-  umbrella header "DocumentCaptureCocoaPods.h"
-
-  export *
-  module * { export * }
-}
